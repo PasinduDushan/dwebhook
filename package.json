@@ -1,0 +1,15 @@
+{
+  "name": "dwebhook",
+  "version": "1.0.0",
+  "description": "A webhook package for discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrazyBotBoy",
+  "license": "ISC",
+  "dependencies": {
+    "datauri": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
